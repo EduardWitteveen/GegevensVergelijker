@@ -1,5 +1,6 @@
-# Gegevensvergelijker
+# Gemigreerd naar https://github.com/VNG-Realisatie/i-Spiegel
 
+Onderstaande informatie is voor historie
 ##  I-spiegel 3.0. 
 Binnen de gemeente hebben we te maken met veel persoons- en adresgegevens. Deze gegevens worden door de hele organisatie verspreid. Dit leidt tot vele processen en veel afnemende applicaties, die hier gebruik van maken. Het is van belang dat de gegevens binnen de ketens kloppen. Dus van begin tot eind. Om grip te krijgen op de kwaliteit kun je gebruik maken van de Gegevensvergelijker, oftewel de i-Spiegel 3.0. Hiermee vergelijk je de gegevens uit verschillende systemen met elkaar, dus de gegevens van de afnemende applicaties met de gegevens uit de bron. 
 
